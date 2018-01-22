@@ -1,2 +1,2 @@
 # CS216
-刘沁喆是个傻逼！
+This is the place for storing the homework assignment of CS216
